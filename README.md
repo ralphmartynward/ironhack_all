@@ -143,9 +143,9 @@ ______________________
 ______________________
 ### **Week 5** | Mid-bootcamp project
 
-[5 Mid-Bootcamp project guidelines](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.10%20Mid-Bootcamp%20project%20guidelines)
+5.01 [Mid-Bootcamp project guidelines](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.10%20Mid-Bootcamp%20project%20guidelines)
 
-[Mid-bootcamp project - movie recommender](https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project)
+[Mid-bootcamp project - Movie recommender](https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project)
 
 ______________________
 ### **Week 6** 
@@ -231,4 +231,7 @@ ______________________
 ______________________
 ### **Week 9** | Final project
 
-https://github.com/ralphmartynward/ironhack_09_final-project
+[Final project - Purrposterous](https://github.com/ralphmartynward/ironhack_09_final-project)
+
+______________________
+### **Week 10** | Career week
