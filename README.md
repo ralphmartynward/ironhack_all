@@ -178,17 +178,17 @@ ______________________
 ______________________
 ### **Week 7** 
 
-[7.01, 7.02 Data Cleaning and Feature selection review](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.01%2C%207.02%20Data%20Cleaning%20and%20Feature%20selection%20review)
+7.01, 7.02 [Data Cleaning and Feature selection review](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.01%2C%207.02%20Data%20Cleaning%20and%20Feature%20selection%20review)
 
-[7.03 automated feature selection](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.03%20automated%20feature%20selection)
+7.03 [Automated feature selection](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.03%20automated%20feature%20selection)
 
-[7.04 inferential statistics](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.04%20inferential%20statistics)
+7.04 [Inferential statistics](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.04%20inferential%20statistics)
 
-[7.06 Decission Trees and Cross Validation](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.06%20Decission%20Trees%20and%20Cross%20Validation)
+7.06 [Decission Trees and Cross Validation](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.06%20Decission%20Trees%20and%20Cross%20Validation)
 
-[7.07 Bootstrapping, bagging, RandomForest](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.07%20Bootstrapping%2C%20bagging%2C%20RandomForest)
+7.07 [Bootstrapping, Bagging, RandomForest](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.07%20Bootstrapping%2C%20bagging%2C%20RandomForest)
 
-[7.08 Boosting](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.08%20Boosting
+7.08 [Boosting](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.08%20Boosting)
 
 
 **Labs**
@@ -206,23 +206,27 @@ ______________________
 ______________________
 ### **Week 8** 
 
-8.01 Excel
+8.01 [Excel](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.01%20Excel)
 
-8.02 Excel Macros
+8.02 [Excel Macros](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.02%20Excel%20Macros)
 
-8.03 Neural Networks
+8.03 [Neural Networks](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.03%20Neural%20Networks)
 
-8.04 Computer Vision
+8.04 [Computer Vision](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.04%20Computer%20Vision)
 
-8.05 Natural Language Processing
+8.05 [Natural Language Processing](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.05%20Natural%20Language%20Processing)
 
-8.06 Object Oriented Programming
+8.06 [Object Oriented Programming](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.06%20Object%20Oriented%20Programming)
 
-8.07 Time Series Analysis
+8.07 [Time Series Analysis](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.07%20Time%20Series%20Analysis)
 
 **Labs**
 
+[Lab - Deep learning](https://github.com/ralphmartynward/ironhack_08_lab-deep-learning)
 
+[Lab - NLP](https://github.com/ralphmartynward/ironhack_08_lab-nlp)
+
+[Lab - Object oriented programming](https://github.com/ralphmartynward/ironhack_08_lab-Object-Oriented-Programming)
 
 ______________________
 ### **Week 9** | Final project
