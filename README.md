@@ -78,7 +78,7 @@ ______________________
 
 3.05 [Regular Expressions](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.05%20Regular%20Expressions)
 
-3.08 [Binary vs multiclass classification]
+3.08 [Binary vs multiclass classification](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/DAY4)
 
 3.09 [Dealing with imbalance, diabetes](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.09%20Dealing%20with%20imbalance%2C%20diabetes)
 
