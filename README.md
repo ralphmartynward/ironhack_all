@@ -5,11 +5,6 @@ ______________________
 
 1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1)
 
-Labs
-
-https://github.com/ralphmartynward/ironhack_01_lab-bash
-https://github.com/ralphmartynward/ironralph_01_lab-git 
-
 1.03 [Intro libraries Numpy and Pandas](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.03%20Intro%20libraries%20Numpy%20and%20Pandas)
 
 1.04 [Exploration and Data Cleaning](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.04%20Exploration%20and%20Data%20Cleaning)
@@ -24,13 +19,24 @@ https://github.com/ralphmartynward/ironralph_01_lab-git
 
 Labs
 
+[Lab - bash](https://github.com/ralphmartynward/ironhack_01_lab-bash)
+
+[Lab - git](https://github.com/ralphmartynward/ironralph_01_lab-git)
+
 [Lab - Customer analysis round 1](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-1)
+
 [Lab - Customer analysis round 2](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-2)
+
 [Lab - Customer analysis round 3](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-3)
+
 [Lab - Customer analysis round 4](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-4)
+
 [Lab - Customer analysis round 5](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-5)
+
 [Lab - Customer analysis round 6](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-6)
+
 [Lab - Customer analysis round 7](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-7)
+
 [Lab - Customer analysis round Final](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-final-round)
 
 ______________________
