@@ -4,6 +4,7 @@ ______________________
 ### **Week 1** 
 
 1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1)
+
 Labs
 https://github.com/ralphmartynward/ironhack_01_lab-bash
 https://github.com/ralphmartynward/ironralph_01_lab-git 
@@ -21,6 +22,7 @@ https://github.com/ralphmartynward/ironralph_01_lab-git
 1.08 [Linear Regression, TrainTestSplit](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.08%20Linear%20Regression%2C%20TrainTestSplit)
 
 Labs
+
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-1
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-2
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-3
