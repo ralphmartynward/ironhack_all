@@ -3,7 +3,8 @@ A repo to store and share Ironhack lessons and labs.
 ______________________
 ### **Week 1** 
 
-1.02 Data analytics, terminal, Git, Github
+1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1)
+Labs
 https://github.com/ralphmartynward/ironhack_01_lab-bash
 https://github.com/ralphmartynward/ironralph_01_lab-git 
 1.03 Intro libraries Numpy and Pandas 
@@ -41,6 +42,9 @@ https://github.com/ralphmartynward/ironhack_02_lab-sql-8
 2.09 SQL from Python, Logistic Regression intro
 https://github.com/ralphmartynward/ironhack_02_lab-sql-9
 
+______________________
+### **Week 3** 
+
 3.01 SQL Create-Insert
 https://github.com/ralphmartynward/ironhack_03_lab-sql-3.01
 3.02 SQL Subqueries and temp tables
@@ -55,6 +59,9 @@ https://github.com/ralphmartynward/ironhack_03_lab-advanced-regex
 https://github.com/ralphmartynward/ironhack_03_lab-predictions-logistic-regression
 3.09 Dealing with imbalance, diabetes
 https://github.com/ralphmartynward/ironhack_03_lab-imbalanced-data
+
+______________________
+### **Week 4** 
 
 4.01 K-NN Model. Imputing missing values
 https://github.com/ralphmartynward/ironhack_04_lab-cleaning-numerical-data
@@ -73,8 +80,16 @@ https://github.com/ralphmartynward/ironhack_04_lab-dashboards-with-tableau
 4.09 Advanced Tableau_ binning
 https://github.com/ralphmartynward/ironhack_04_lab-advanced-tableau-visualization
 
+______________________
+### **Week 5** | Mid-bootcamp project
+
 4.10 Mid-Bootcamp project guidelines
+https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.10%20Mid-Bootcamp%20project%20guidelines
+
 https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project
+
+______________________
+### **Week 6** 
 
 6.01 Single Page scraping
 https://github.com/ralphmartynward/ironhack_06_lab-web-scraping-single-page
@@ -85,6 +100,9 @@ https://github.com/ralphmartynward/ironhack_06_lab-not-hot-songs
 https://github.com/ralphmartynward/ironhack_06_song-recommender
 6.05 Introduction to unsupervised learning
 6.06 Advanced Clustering
+
+______________________
+### **Week 7** 
 
 7.01, 7.02 Data Cleaning and Feature selection review
 https://github.com/ralphmartynward/ironhack_07_lab-revisiting-machine-learning
@@ -98,6 +116,18 @@ https://github.com/ralphmartynward/ironhack_07_lab-random-forests
 7.08 Boosting
 https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA
 
+______________________
+### **Week 8** 
+
 8.01 Excel
 8.02 Excel Macros
+8.03 Neural Networks
+8.04 Computer Vision
+8.05 Natural Language Processing
+8.06 Object Oriented Programming
+8.07 Time Series Analysis
 
+______________________
+### **Week 9** | Final project
+
+https://github.com/ralphmartynward/ironhack_09_final-project
