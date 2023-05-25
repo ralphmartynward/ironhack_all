@@ -143,49 +143,86 @@ ______________________
 ______________________
 ### **Week 5** | Mid-bootcamp project
 
-4.10 Mid-Bootcamp project guidelines
-https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.10%20Mid-Bootcamp%20project%20guidelines
+[5 Mid-Bootcamp project guidelines](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.10%20Mid-Bootcamp%20project%20guidelines)
 
-https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project
+[Mid-bootcamp project - movie recommender](https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project)
 
 ______________________
 ### **Week 6** 
 
-6.01 Single Page scraping
-https://github.com/ralphmartynward/ironhack_06_lab-web-scraping-single-page
-6.02 Multiple page scrapping
-6.03 Intro to APIs
-https://github.com/ralphmartynward/ironhack_06_lab-not-hot-songs
-6.04 Spotify_s API
-https://github.com/ralphmartynward/ironhack_06_song-recommender
-6.05 Introduction to unsupervised learning
-6.06 Advanced Clustering
+6.01 [Single Page scraping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.01%20Single%20Page%20scraping)
+
+6.02 [Multiple page scrapping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.02%20Multiple%20page%20scrapping)
+
+6.03 [Intro to APIs](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.03%20Intro%20to%20APIs)
+
+6.04 [Spotify_s API](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.04%20Spotify_s%20API)
+
+6.05 [Introduction to unsupervised learning](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.05%20Introduction%20to%20unsupervised%20learning)
+
+6.06 [Advanced Clustering](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.06%20Advanced%20Clustering)
+
+6.07 [Storytelling](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.07%20Storytelling)
+
+6.08 [Code pipeline](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.08%20Code%20pipeline)
+
+
+**Labs**
+
+[Lab - Web scraping hot songs](https://github.com/ralphmartynward/ironhack_06_lab-web-scraping-single-page)
+
+[Lab - Not hot songs](https://github.com/ralphmartynward/ironhack_06_lab-not-hot-songs)
+
+[Lab - Song recommender project](https://github.com/ralphmartynward/ironhack_06_song-recommender)
 
 ______________________
 ### **Week 7** 
 
-7.01, 7.02 Data Cleaning and Feature selection review
-https://github.com/ralphmartynward/ironhack_07_lab-revisiting-machine-learning
-7.03 automated feature selection
-https://github.com/ralphmartynward/ironhack_07_lab-feature-engineering
-7.04 inferential statistics
-https://github.com/ralphmartynward/ironhack_07_lab-t-tests-p-values
-7.06 Decission Trees and Cross Validation
-7.07 Bootstrapping, bagging, RandomForest
-https://github.com/ralphmartynward/ironhack_07_lab-random-forests
-7.08 Boosting
-https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA
+[7.01, 7.02 Data Cleaning and Feature selection review](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.01%2C%207.02%20Data%20Cleaning%20and%20Feature%20selection%20review)
+
+[7.03 automated feature selection](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.03%20automated%20feature%20selection)
+
+[7.04 inferential statistics](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.04%20inferential%20statistics)
+
+[7.06 Decission Trees and Cross Validation](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.06%20Decission%20Trees%20and%20Cross%20Validation)
+
+[7.07 Bootstrapping, bagging, RandomForest](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.07%20Bootstrapping%2C%20bagging%2C%20RandomForest)
+
+[7.08 Boosting](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.08%20Boosting
+
+
+**Labs**
+
+[Lab - Revisiting Machine Learning](https://github.com/ralphmartynward/ironhack_07_lab-revisiting-machine-learning)
+
+[Lab - Feature Engineering](https://github.com/ralphmartynward/ironhack_07_lab-feature-engineering)
+
+[Lab - t-tests & p-values](https://github.com/ralphmartynward/ironhack_07_lab-t-tests-p-values)
+
+[Lab - Random Forests](https://github.com/ralphmartynward/ironhack_07_lab-random-forests)
+
+[Lab - Technical challenge hackathon](https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA)
 
 ______________________
 ### **Week 8** 
 
 8.01 Excel
+
 8.02 Excel Macros
+
 8.03 Neural Networks
+
 8.04 Computer Vision
+
 8.05 Natural Language Processing
+
 8.06 Object Oriented Programming
+
 8.07 Time Series Analysis
+
+**Labs**
+
+
 
 ______________________
 ### **Week 9** | Final project
