@@ -7,18 +7,13 @@ ______________________
 Labs
 https://github.com/ralphmartynward/ironhack_01_lab-bash
 https://github.com/ralphmartynward/ironralph_01_lab-git 
-1.03 [Intro libraries Numpy and Pandas] 
-(https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.03%20Intro%20libraries%20Numpy%20and%20Pandas)
-1.04 [Exploration and Data Cleaning]
-(https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.04%20Exploration%20and%20Data%20Cleaning)
-1.05 [Descriptive Stats, Correlation]
-(https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.05%20Descriptive%20Stats%2C%20Correlation)
-1.06 [Linear Regression Intro]
-(https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.06%20Linear%20Regression%20Intro)
-1.07 [Transformation and scaling]
-(https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.07%20Transformation%20and%20scaling)
-1.08 [Linear Regression, TrainTestSplit]
-(https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.08%20Linear%20Regression%2C%20TrainTestSplit)
+1.03 [Intro libraries Numpy and Pandas](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.03%20Intro%20libraries%20Numpy%20and%20Pandas)
+1.04 [Exploration and Data Cleaning](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.04%20Exploration%20and%20Data%20Cleaning)
+1.05 [Descriptive Stats, Correlation](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.05%20Descriptive%20Stats%2C%20Correlation)
+1.06 [Linear Regression Intro](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.06%20Linear%20Regression%20Intro)
+1.07 [Transformation and scaling](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.07%20Transformation%20and%20scaling)
+1.08 [Linear Regression, TrainTestSplit](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.08%20Linear%20Regression%2C%20TrainTestSplit)
+
 Labs
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-1
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-2
