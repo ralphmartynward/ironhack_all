@@ -6,6 +6,7 @@ ______________________
 1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1)
 
 Labs
+
 https://github.com/ralphmartynward/ironhack_01_lab-bash
 https://github.com/ralphmartynward/ironralph_01_lab-git 
 
@@ -23,26 +24,26 @@ https://github.com/ralphmartynward/ironralph_01_lab-git
 
 Labs
 
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-1
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-2
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-3
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-4
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-5
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-6
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-7
-https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-final-round
+[Lab - Customer analysis round 1](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-1)
+[Lab - Customer analysis round 2](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-2)
+[Lab - Customer analysis round 3](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-3)
+[Lab - Customer analysis round 4](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-4)
+[Lab - Customer analysis round 5](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-5)
+[Lab - Customer analysis round 6](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-6)
+[Lab - Customer analysis round 7](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-7)
+[Lab - Customer analysis round Final](https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-final-round)
 
 ______________________
 ### **Week 2** 
 
-2.05 SQL Intro _ SELECT
-https://github.com/ralphmartynward/ironhack_02_data_case_study_2
-2.06 SQL Aggregations and Group By
+2.05 [SQL Intro _ SELECT](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.05%20SQL%20Intro%20_%20SELECT)
+
+2.06 [SQL Aggregations and Group By](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.06%20SQL%20Aggregations%20and%20Group%20By)
 https://github.com/ralphmartynward/ironhack_02_dataV3_Lesson_2.6_lab
-2.07 and 2.08 SQL Joins
+2.07 and 2.08 [SQL Joins](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.07%20and%202.08%20SQL%20Joins)
 https://github.com/ralphmartynward/ironhack_02_dataV3_Lesson_2.7_lab
 https://github.com/ralphmartynward/ironhack_02_lab-sql-8
-2.09 SQL from Python, Logistic Regression intro
+2.09 [SQL from Python, Logistic Regression intro]
 https://github.com/ralphmartynward/ironhack_02_lab-sql-9
 
 ______________________
