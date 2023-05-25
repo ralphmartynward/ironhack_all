@@ -17,7 +17,7 @@ ______________________
 
 1.08 [Linear Regression, TrainTestSplit](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.08%20Linear%20Regression%2C%20TrainTestSplit)
 
-Labs
+**Labs**
 
 [Lab - bash](https://github.com/ralphmartynward/ironhack_01_lab-bash)
 
@@ -45,12 +45,25 @@ ______________________
 2.05 [SQL Intro _ SELECT](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.05%20SQL%20Intro%20_%20SELECT)
 
 2.06 [SQL Aggregations and Group By](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.06%20SQL%20Aggregations%20and%20Group%20By)
-https://github.com/ralphmartynward/ironhack_02_dataV3_Lesson_2.6_lab
+
 2.07 and 2.08 [SQL Joins](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.07%20and%202.08%20SQL%20Joins)
-https://github.com/ralphmartynward/ironhack_02_dataV3_Lesson_2.7_lab
-https://github.com/ralphmartynward/ironhack_02_lab-sql-8
-2.09 [SQL from Python, Logistic Regression intro]
-https://github.com/ralphmartynward/ironhack_02_lab-sql-9
+
+2.09 [SQL from Python, Logistic Regression intro](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.09%20SQL%20from%20Python%2C%20Logistic%20Regression%20intro)
+
+
+**Labs**
+
+[Lab - SQL Intro](https://github.com/ralphmartynward/ironhack_02_data_case_study_2/)
+
+[Lab - SQL Queries Part 1](https://github.com/ralphmartynward/ironhack_02_dataV3_lesson_2.5_lab/)
+
+[Lab - SQL Aggregations](https://github.com/ralphmartynward/ironhack_02_dataV3_Lesson_2.6_lab)
+
+[Lab - SQL Joins Part 1](https://github.com/ralphmartynward/ironhack_02_dataV3_Lesson_2.7_lab)
+
+[Lab - SQL Joins Part 2](https://github.com/ralphmartynward/ironhack_02_lab-sql-8)
+
+[Lab - SQL Queries Part 2](https://github.com/ralphmartynward/ironhack_02_lab-sql-9)
 
 ______________________
 ### **Week 3** 
