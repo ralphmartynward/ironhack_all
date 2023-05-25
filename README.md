@@ -1,17 +1,24 @@
 # Ironhack lessons and labs
 A repo to store and share Ironhack lessons and labs.
 ______________________
-### **unit_1** | bash, git, python
+### **Week 1** 
 
 1.02 Data analytics, terminal, Git, Github
 https://github.com/ralphmartynward/ironhack_01_lab-bash
 https://github.com/ralphmartynward/ironralph_01_lab-git 
-1.03 Intro libraries Numpy and Pandas
+1.03 Intro libraries Numpy and Pandas 
+https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.03%20Intro%20libraries%20Numpy%20and%20Pandas
 1.04 Exploration and Data Cleaning
+https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.04%20Exploration%20and%20Data%20Cleaning
 1.05 Descriptive Stats, Correlation
+https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.05%20Descriptive%20Stats%2C%20Correlation
 1.06 Linear Regression Intro
+https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.06%20Linear%20Regression%20Intro
 1.07 Transformation and scaling
+https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.07%20Transformation%20and%20scaling
 1.08 Linear Regression, TrainTestSplit
+https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.08%20Linear%20Regression%2C%20TrainTestSplit
+
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-1
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-2
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-3
@@ -20,6 +27,9 @@ https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-5
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-6
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-round-7
 https://github.com/ralphmartynward/ironhack_01_lab-customer-analysis-final-round
+
+______________________
+### **Week 2** 
 
 2.05 SQL Intro _ SELECT
 https://github.com/ralphmartynward/ironhack_02_data_case_study_2
