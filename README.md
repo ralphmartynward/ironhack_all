@@ -87,7 +87,7 @@ ______________________
 
 [Lab - SQL data manipulation](https://github.com/ralphmartynward/ironhack_03_lab-sql-3.01)
 
-[Lab - SQL subqueries]((https://github.com/ralphmartynward/ironhack_03_lab-sql-subqueries)
+[Lab - SQL subqueries](https://github.com/ralphmartynward/ironhack_03_lab-sql-subqueries)
 
 [Lab - Dataframe calculations](https://github.com/ralphmartynward/ironhack_03_lab-dataframe-calculations)
 
@@ -102,22 +102,43 @@ ______________________
 ______________________
 ### **Week 4** 
 
-4.01 [K-NN Model. Imputing missing values]
-https://github.com/ralphmartynward/ironhack_04_lab-cleaning-numerical-data
-4.02 [Cleaning Categoricals]
-https://github.com/ralphmartynward/ironhack_04_lab-cleaning-categorical-data
-4.03 [Bias-variance-tradeoff: underfitting and overfitting]
-https://github.com/ralphmartynward/ironhack_04_lab-comparing-regression-models
-4.03 [conf interval and hyp test]
-https://github.com/ralphmartynward/ironhack_04_lab-Hypothesis-Testing
-4.04 [Probability distributions]
-https://github.com/ralphmartynward/ironhack_04_lab-random-variable-distributions
-4.07 [Intro Tableau]
-https://github.com/ralphmartynward/ironhack_04_lab-getting-started-with-tableau
-4.08 [Data Analysis with Tableau]
-https://github.com/ralphmartynward/ironhack_04_lab-dashboards-with-tableau
-4.09 [Advanced Tableau_ binning]
-https://github.com/ralphmartynward/ironhack_04_lab-advanced-tableau-visualization
+4.01 [K-NN Model. Imputing missing values](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.01%20K-NN%20Model.%20Imputing%20missing%20values)
+
+4.02 [Cleaning Categoricals](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.02%20Cleaning%20Categoricals)
+
+
+4.03 [Bias-variance-tradeoff: underfitting and overfitting](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.03%20Bias-variance-tradeoff_%20underfitting%20and%20overfitting)
+
+4.03 [conf interval and hyp test](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.03%20conf%20interval%20and%20hyp%20test)
+
+4.04 [chi2 contingency - correlation for categoricals](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.04%20chi2_contingency%20-%20_correlation_%20for%20categoricals)
+
+4.04 [Probability distributions](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.04%20probability%20distributions)
+
+4.07 [Intro Tableau](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.07%20Intro%20Tableau)
+
+4.08 [Data Analysis with Tableau](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.08%20Data%20Analysis%20with%20Tableau)
+
+4.09 [Advanced Tableau_ binning](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.09%20Advanced%20Tableau_%20binning)
+
+
+**Labs**
+
+[Lab - Cleaning numerical data](https://github.com/ralphmartynward/ironhack_04_lab-cleaning-numerical-data)
+
+[Lab - Cleaning categorical data](https://github.com/ralphmartynward/ironhack_04_lab-cleaning-categorical-data)
+
+[Lab - Comparing Regression Models](https://github.com/ralphmartynward/ironhack_04_lab-comparing-regression-models)
+
+[Lab - Hypothesis Testing](https://github.com/ralphmartynward/ironhack_04_lab-Hypothesis-Testing)
+
+[Lab - Random Variable Distributions](https://github.com/ralphmartynward/ironhack_04_lab-random-variable-distributions)
+
+[Lab - Tableau getting started](https://github.com/ralphmartynward/ironhack_04_lab-getting-started-with-tableau)
+
+[Lab - Tableau Dashboards](https://github.com/ralphmartynward/ironhack_04_lab-dashboards-with-tableau)
+
+[Lab - Advanced Tableau](https://github.com/ralphmartynward/ironhack_04_lab-advanced-tableau-visualization)
 
 ______________________
 ### **Week 5** | Mid-bootcamp project
