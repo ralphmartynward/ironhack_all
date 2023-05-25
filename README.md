@@ -42,7 +42,7 @@ ______________________
 ______________________
 ### **Week 2** 
 
-2.05 [SQL Intro _ SELECT](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.05%20SQL%20Intro%20_%20SELECT)
+2.05 [SQL Intro SELECT](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/DAY2)
 
 2.06 [SQL Aggregations and Group By](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.06%20SQL%20Aggregations%20and%20Group%20By)
 
@@ -68,39 +68,55 @@ ______________________
 ______________________
 ### **Week 3** 
 
-3.01 SQL Create-Insert
-https://github.com/ralphmartynward/ironhack_03_lab-sql-3.01
-3.02 SQL Subqueries and temp tables
-https://github.com/ralphmartynward/ironhack_03_lab-sql-subqueries
-3.03 advanced Pandas (groupby, merge)
-https://github.com/ralphmartynward/ironhack_03_lab-dataframe-calculations
-3.04 melt, pivot and pivot_table
-https://github.com/ralphmartynward/ironhack_03_lab-pivot-table-and-correlation
-3.05 Regular Expressions
-https://github.com/ralphmartynward/ironhack_03_lab-advanced-regex
-3.08 Binary vs multiclass classification
-https://github.com/ralphmartynward/ironhack_03_lab-predictions-logistic-regression
-3.09 Dealing with imbalance, diabetes
-https://github.com/ralphmartynward/ironhack_03_lab-imbalanced-data
+3.01 [SQL Create-Insert](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.01%20SQL%20Create-Insert)
+
+3.02 [SQL Subqueries and temp tables](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.02%20SQL%20Subqueries%20and%20temp%20tables)
+
+3.03 [Advanced Pandas (groupby, merge)](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.03%20advanced%20Pandas%20(groupby%2C%20merge))
+
+3.04 [melt, pivot and pivot_table](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.04%20melt%2C%20pivot%20and%20pivot_table)
+
+3.05 [Regular Expressions](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.05%20Regular%20Expressions)
+
+3.08 [Binary vs multiclass classification]
+
+3.09 [Dealing with imbalance, diabetes](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.09%20Dealing%20with%20imbalance%2C%20diabetes)
+
+
+**Labs**
+
+[Lab - SQL data manipulation](https://github.com/ralphmartynward/ironhack_03_lab-sql-3.01)
+
+[Lab - SQL subqueries]((https://github.com/ralphmartynward/ironhack_03_lab-sql-subqueries)
+
+[Lab - Dataframe calculations](https://github.com/ralphmartynward/ironhack_03_lab-dataframe-calculations)
+
+[Lab - Pivot table & Correlation](https://github.com/ralphmartynward/ironhack_03_lab-pivot-table-and-correlation)
+
+[Lab - Advanced Regex](https://github.com/ralphmartynward/ironhack_03_lab-advanced-regex)
+
+[Lab - Predictions Logistic Regression](https://github.com/ralphmartynward/ironhack_03_lab-predictions-logistic-regression)
+
+[Lab - Imbalanced data](https://github.com/ralphmartynward/ironhack_03_lab-imbalanced-data)
 
 ______________________
 ### **Week 4** 
 
-4.01 K-NN Model. Imputing missing values
+4.01 [K-NN Model. Imputing missing values]
 https://github.com/ralphmartynward/ironhack_04_lab-cleaning-numerical-data
-4.02 Cleaning Categoricals
+4.02 [Cleaning Categoricals]
 https://github.com/ralphmartynward/ironhack_04_lab-cleaning-categorical-data
-4.03 Bias-variance-tradeoff: underfitting and overfitting
+4.03 [Bias-variance-tradeoff: underfitting and overfitting]
 https://github.com/ralphmartynward/ironhack_04_lab-comparing-regression-models
-4.03 conf interval and hyp test
+4.03 [conf interval and hyp test]
 https://github.com/ralphmartynward/ironhack_04_lab-Hypothesis-Testing
-4.04 probability distributions
+4.04 [Probability distributions]
 https://github.com/ralphmartynward/ironhack_04_lab-random-variable-distributions
-4.07 Intro Tableau
+4.07 [Intro Tableau]
 https://github.com/ralphmartynward/ironhack_04_lab-getting-started-with-tableau
-4.08 Data Analysis with Tableau
+4.08 [Data Analysis with Tableau]
 https://github.com/ralphmartynward/ironhack_04_lab-dashboards-with-tableau
-4.09 Advanced Tableau_ binning
+4.09 [Advanced Tableau_ binning]
 https://github.com/ralphmartynward/ironhack_04_lab-advanced-tableau-visualization
 
 ______________________
