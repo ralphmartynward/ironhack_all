@@ -216,9 +216,11 @@ ______________________
 
 8.05 [Natural Language Processing](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.05%20Natural%20Language%20Processing) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/LSrIw8xGHQrKD-17ufFuW1MPkmvJ2Xv4zBelK4S1XOkGHwUvA9SR79efTOMPUPj58MFPUFb8snOn7eQK.QO0dUX5pPzPg2_7t?canPlayFromShare=true&from=share_recording_detail&startTime=1684306691000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3acxI7Vp5n4j41JRlPlULNhXzhlw9b1iDmWdt5gXOr7FBSQPJn0TvuBit5oQKBmn.KYUB1s9cKRcDTpmK%3FstartTime%3D1684306691000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/b6vhrdCfC0USpuq_vCEqgC4PVUWmBeFrwcOi7EOskmhez6Y3YyI1rRnUsayuCoGhsZZ7eFFuFtswXakR.Ds_tDmUK9N4Q50Fc?canPlayFromShare=true&from=share_recording_detail&startTime=1684336605000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3acxI7Vp5n4j41JRlPlULNhXzhlw9b1iDmWdt5gXOr7FBSQPJn0TvuBit5oQKBmn.KYUB1s9cKRcDTpmK%3FstartTime%3D1684336605000))
 
-8.06 [Object Oriented Programming](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.06%20Object%20Oriented%20Programming)
+8.06 [Object Oriented Programming](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.06%20Object%20Oriented%20Programming) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/2A0r4YiKBQahnQKMZw0ZwEVEsSHdWrZdExKaUOZn5Kei4AUgyqszGManiTHuWIlK.tLLEYK1ih6l7_0Yz?startTime=1684393032000))
 
-8.07 [Time Series Analysis](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.07%20Time%20Series%20Analysis) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/2A0r4YiKBQahnQKMZw0ZwEVEsSHdWrZdExKaUOZn5Kei4AUgyqszGManiTHuWIlK.tLLEYK1ih6l7_0Yz?startTime=1684393032000))
+8.07 [Time Series Analysis](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.07%20Time%20Series%20Analysis) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/m6uvpbN1g3dJap0olICSsSHN4HljL9LntnU7NLa0y7R1D5IJ7xfWJzgcCjokx2RsA2-mxaFP4iI-powx.z0hpPHcFMuSaCnwP?canPlayFromShare=true&from=share_recording_detail&startTime=1684478443000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FKqbOPaf00S1d2F29OkeVAncMZ33xs4wPYhUX-_Gzxac1RDZeq_6vgLFYdSXxMaSW.kRfQHsaHoViWfeNE%3FstartTime%3D1684478443000))
+
+
 
 **Labs**
 
