@@ -145,24 +145,24 @@ ______________________
 
 5.01 [Mid-Bootcamp project guidelines](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.10%20Mid-Bootcamp%20project%20guidelines)
 
-[Mid-bootcamp project - Movie recommender](https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project)
+[Mid-bootcamp project - Movie recommender](https://github.com/ralphmartynward/ironhack_05_mid-bootcamp-project) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/i6aGyG4bL3Q4w4gMy2n1A0KU0W6GMETaUPWCbVnnSMY8ffMq7aOWysW5ls9sa6HjwvUns20RNlaHM7jW.N-yzaMgrIznc9bFD?canPlayFromShare=true&from=share_recording_detail&startTime=1682665096000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F86T-9Pr8zdoInGb5Z3mquE3gxG13IdODa46HssltLpj1fdiIUsB59nieu_3ArHvi.vcJ8M9y7p5tB8ZdJ%3FstartTime%3D1682665096000))
 
 ______________________
 ### **Week 6** 
 
-6.01 [Single Page scraping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.01%20Single%20Page%20scraping)
+6.01 [Single Page scraping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.01%20Single%20Page%20scraping) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/r2-EH7TGX6SxbnOO_ShoA7P86lj1-6WzsWFuMD7tyj8_UE8M3TtWQ_pjzn9JMJl9uXcMNihmIEHfLt5p._bHENeAd-L3ViZ1_?canPlayFromShare=true&from=share_recording_detail&startTime=1682924304000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3beHdfAoJ_YNBvwRnLitynxrISZRPh20r2hb6RJbtx5Za3FoB3CxSsXA7U6DB9af.XLorwkc5Y1cvbm61%3FstartTime%3D1682924304000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/avX9_XXn1vgDNniOp4CV350ESa-SrTx7vZY3n9357osx1ljMB2pXD8klZkKXgldOwFByknks0rlslhgC.IVlncQXacuML8McF?canPlayFromShare=true&from=share_recording_detail&startTime=1682954106000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3beHdfAoJ_YNBvwRnLitynxrISZRPh20r2hb6RJbtx5Za3FoB3CxSsXA7U6DB9af.XLorwkc5Y1cvbm61%3FstartTime%3D1682954106000))
 
 6.02 [Multiple page scrapping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.02%20Multiple%20page%20scrapping)
 
-6.03 [Intro to APIs](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.03%20Intro%20to%20APIs)
+6.03 [Intro to APIs](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.03%20Intro%20to%20APIs) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/sUxBgXQfUVfO7j1IV2wAH4gDB7oXKC-ulsmdXSNUBVB4doFMs0jhxgDUcYm90de80syQmDgiAyHOaBcT.vKcpGPtH0lrerJIw?canPlayFromShare=true&from=share_recording_detail&startTime=1683010615000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F8mT0sZBYsxWIe0eeAoGEPLE1QPUO2d3LaDB3YKaoY9UwqbwWnZMAl7mhX9Gezzj3.XV47Cue2nb9jpU_Y%3FstartTime%3D1683010615000))
 
 6.04 [Spotify_s API](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.04%20Spotify_s%20API)
 
-6.05 [Introduction to unsupervised learning](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.05%20Introduction%20to%20unsupervised%20learning)
+6.05 [Introduction to unsupervised learning](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.05%20Introduction%20to%20unsupervised%20learning) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/bqPNuO6U2-jxkV_mChH8Uu52-hvVTVFes5ty_SqdXiCnt-pOjrpKBZWffpGc6RZI.AqGrzfWDpmIdKxeQ?startTime=1683096995000))
 
 6.06 [Advanced Clustering](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.06%20Advanced%20Clustering)
 
-6.07 [Storytelling](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.07%20Storytelling)
+6.07 [Storytelling](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.07%20Storytelling) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/Cn51sf2nFf5D3cx_GZPa609PG0mQ_wWPV9VNPT9p5kmlOM42-b5P6HhFV-mNR0UB.FQ8FJWGClmkv0OmI?startTime=1683269984000))
 
 6.08 [Code pipeline](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.08%20Code%20pipeline)
 
@@ -178,17 +178,17 @@ ______________________
 ______________________
 ### **Week 7** 
 
-7.01, 7.02 [Data Cleaning and Feature selection review](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.01%2C%207.02%20Data%20Cleaning%20and%20Feature%20selection%20review)
+7.01, 7.02 [Data Cleaning and Feature selection review](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.01%2C%207.02%20Data%20Cleaning%20and%20Feature%20selection%20review) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/R3CzK2-oAfgwh5XFgNPWLdKBPo7jXuZ0kyIAivlKbrWqeUY_uEaxn7RnkZoPtoB3.EL1zY_1WNtL4J0IH?startTime=1683529171000))
 
-7.03 [Automated feature selection](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.03%20automated%20feature%20selection)
+7.03 [Automated feature selection](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.03%20automated%20feature%20selection) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/tCSynbOvazBtn4kUiuiNAVDMLzACZXOL959Iv4XkVMF5AM8yG8KdQ7XbKl7E1cQZLCSL0FW1lyIGqec.GvuZ9vPOfnApqrwr?canPlayFromShare=true&from=share_recording_detail&startTime=1676965467000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FnrGjSAqWpT9Evo6ugHG8G-OOSV8HWm1EHxEF7WxBnUsgifpda18ZSk65EWdLGHPc.7KU0X108RcVtzVdm%3FstartTime%3D1676965467000))
 
-7.04 [Inferential statistics](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.04%20inferential%20statistics)
+7.04 [Inferential statistics](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.04%20inferential%20statistics) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/CQ3wos9jKpbWZRnhA_vUOlYIKqKFI7w1CoCz15J9VgEU5FWoz7C7KBs9InWzlARp.wGrvLNJTFwct5voA?startTime=1683701844000))
 
-7.06 [Decission Trees and Cross Validation](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.06%20Decission%20Trees%20and%20Cross%20Validation)
+7.06 [Decission Trees and Cross Validation](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.06%20Decission%20Trees%20and%20Cross%20Validation) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/bWphB2qMUhpgwsVvNWKAyzjOrA6Nt8gSVwYdsunNzWIyok1GW2uzAwhH65TAXtKRGUpdwIw3q-ARQo2L.7ENy5WQJvq11J1hA?canPlayFromShare=true&from=share_recording_detail&startTime=1683787704000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F_5ZsZDM-huCeYEMWg0WfUG5RLN_Gqy4j1ZAbt1iSz-nnJ5uxH2kawXMr4jDGWVc.notlPS4Tv8HUe75r%3FstartTime%3D1683787704000))
 
-7.07 [Bootstrapping, Bagging, RandomForest](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.07%20Bootstrapping%2C%20bagging%2C%20RandomForest)
+7.07 [Bootstrapping, Bagging, RandomForest](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.07%20Bootstrapping%2C%20bagging%2C%20RandomForest) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/vWcEsvUe65XRbmiAARddRok2ThfrIWrzx2pC2nz5ahNy2fnNN-N7-Vnnlw8Dx8HLfpdgto1Ajgn_uLHs.mPpDovXqL9v52fmx?canPlayFromShare=true&from=share_recording_detail&startTime=1683874626000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FMdBh2qNe8JhPhNkbQXYHiC6-5tIElEnpdLkKCSvQZ497LFBRBDnrwHaDJSEzPrLj.AcoxxwK0nMUBSeOq%3FstartTime%3D1683874626000))
 
-7.08 [Boosting](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.08%20Boosting)
+7.08 [Boosting](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.08%20Boosting) 
 
 
 **Labs**
