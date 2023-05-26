@@ -68,7 +68,7 @@ ______________________
 ______________________
 ### **Week 3** 
 
-3.01 [SQL Create-Insert](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.01%20SQL%20Create-Insert) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/klsglwNtkDv1sk054np6Ihr_EM5Cu5aH__87cFjpXOHLpKY_cO3SpVSKnpmkA7Ezd8njbAlu6FVxAECi.3l8cZq1dywtU_d6S?canPlayFromShare=true&from=share_recording_detail&startTime=1681109855000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FeWWB_-ilwJWY1MTKsCgX99Y98BB7ZlUKV5A368lnY-mlYrvwi947VhrYA2W3RXUi.DUQOcSVC1NuVl2BB%3FstartTime%3D1681109855000)
+3.01 [SQL Create-Insert](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.01%20SQL%20Create-Insert) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/klsglwNtkDv1sk054np6Ihr_EM5Cu5aH__87cFjpXOHLpKY_cO3SpVSKnpmkA7Ezd8njbAlu6FVxAECi.3l8cZq1dywtU_d6S?canPlayFromShare=true&from=share_recording_detail&startTime=1681109855000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FeWWB_-ilwJWY1MTKsCgX99Y98BB7ZlUKV5A368lnY-mlYrvwi947VhrYA2W3RXUi.DUQOcSVC1NuVl2BB%3FstartTime%3D1681109855000))
 
 3.02 [SQL Subqueries and temp tables](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.02%20SQL%20Subqueries%20and%20temp%20tables) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/-hIjei3uf8jd5ltVJVAHL_a2B3EssbJk_j4_eNEarkmsSANy5KV4ft_MNLcC6pJhMSoTqaGv4UsQbIjX.r_jx9s5AwVoa-eCa?canPlayFromShare=true&from=share_recording_detail&startTime=1681134732000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FeWWB_-ilwJWY1MTKsCgX99Y98BB7ZlUKV5A368lnY-mlYrvwi947VhrYA2W3RXUi.DUQOcSVC1NuVl2BB%3FstartTime%3D1681134732000))
 
@@ -206,19 +206,19 @@ ______________________
 ______________________
 ### **Week 8** 
 
-8.01 [Excel](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.01%20Excel)
+8.01 [Excel](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.01%20Excel) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Uy9zd9g1EonT9w0gTzWhwzA7u6FmeR5vaZHz1bbAI0-PiYk4ZVv9IFqaQHBfxyuk7mFm-qohQFNj1g6u.R_THwCKjx9GtCj0k?canPlayFromShare=true&from=share_recording_detail&startTime=1684133785000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F9o1tLh3BIVSTdCno_C1UjiC98-pvtvsYSbZlaoCW8yAgqHs1Py4W5hM_Wgr4Px2v.orjDVARKtAAYp1VZ%3FstartTime%3D1684133785000))
 
 8.02 [Excel Macros](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.02%20Excel%20Macros)
 
-8.03 [Neural Networks](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.03%20Neural%20Networks)
+8.03 [Neural Networks](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.03%20Neural%20Networks) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/iGJ6ShssiXr47DisKcQRhIWLkWY-IK_AT_mzZ9mVee2_2jW6eCeaPva0ZBPB1tiz.vjw_BhsMYd3SE8_R?startTime=1684220261000))
 
 8.04 [Computer Vision](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.04%20Computer%20Vision)
 
-8.05 [Natural Language Processing](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.05%20Natural%20Language%20Processing)
+8.05 [Natural Language Processing](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.05%20Natural%20Language%20Processing) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/LSrIw8xGHQrKD-17ufFuW1MPkmvJ2Xv4zBelK4S1XOkGHwUvA9SR79efTOMPUPj58MFPUFb8snOn7eQK.QO0dUX5pPzPg2_7t?canPlayFromShare=true&from=share_recording_detail&startTime=1684306691000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3acxI7Vp5n4j41JRlPlULNhXzhlw9b1iDmWdt5gXOr7FBSQPJn0TvuBit5oQKBmn.KYUB1s9cKRcDTpmK%3FstartTime%3D1684306691000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/b6vhrdCfC0USpuq_vCEqgC4PVUWmBeFrwcOi7EOskmhez6Y3YyI1rRnUsayuCoGhsZZ7eFFuFtswXakR.Ds_tDmUK9N4Q50Fc?canPlayFromShare=true&from=share_recording_detail&startTime=1684336605000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3acxI7Vp5n4j41JRlPlULNhXzhlw9b1iDmWdt5gXOr7FBSQPJn0TvuBit5oQKBmn.KYUB1s9cKRcDTpmK%3FstartTime%3D1684336605000))
 
 8.06 [Object Oriented Programming](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.06%20Object%20Oriented%20Programming)
 
-8.07 [Time Series Analysis](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.07%20Time%20Series%20Analysis)
+8.07 [Time Series Analysis](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.07%20Time%20Series%20Analysis) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/2A0r4YiKBQahnQKMZw0ZwEVEsSHdWrZdExKaUOZn5Kei4AUgyqszGManiTHuWIlK.tLLEYK1ih6l7_0Yz?startTime=1684393032000))
 
 **Labs**
 
