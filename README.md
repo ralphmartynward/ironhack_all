@@ -102,24 +102,24 @@ ______________________
 ______________________
 ### **Week 4** 
 
-4.01 [K-NN Model. Imputing missing values](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.01%20K-NN%20Model.%20Imputing%20missing%20values) ([🎥 Video 1]())([🎥 Video 2]())
+4.01 [K-NN Model. Imputing missing values](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.01%20K-NN%20Model.%20Imputing%20missing%20values) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Q9vIY1zxk__VcaaKhU4I9upQxqScy4lB238YZmOc-pEF5tw1GsDJ01tbpq69lVxBFWvMYsiolK8nbF_2.FQtIJ0HMh5t5_VFw?canPlayFromShare=true&from=share_recording_detail&startTime=1681714307000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FrT1TUUoZbLiWYeLGZ46Mh6GCI8EEz8exHpizZpaRVWR0jtUQtj2qZaiobU2M1ARC.xYTcjt1mA5pbynBL%3FstartTime%3D1681714307000))
 
 4.02 [Cleaning Categoricals](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.02%20Cleaning%20Categoricals)
 
 
-4.03 [Bias-variance-tradeoff: underfitting and overfitting](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.03%20Bias-variance-tradeoff_%20underfitting%20and%20overfitting)
+4.03 [Bias-variance-tradeoff: underfitting and overfitting](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.03%20Bias-variance-tradeoff_%20underfitting%20and%20overfitting) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/LjKf70Xr_NZQJYdrrBVeGdPCyFD5sv2xd1Q2FAJcaFaAWuY7VT9nOUukM1vm0qdoySipwZrjNNboTP0.oOo2UoFjY2Iva75H?canPlayFromShare=true&from=share_recording_detail&startTime=1681801068000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FtA_3xQhlrmq4KkKGCZBsacxeOAL8Q7lFBHMW3NhfB_Xob5sKpPMXlQORK8aS82_C.8JREhtLjEgezQ34a%3FstartTime%3D1681801068000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/HjwiNzs86tmr6nBCB3Wu2V9iqmot3QCXWa1X-PO2ATcMA-2GfyMjeiWmOcTKWNlBJ_frtISXqXKHtsr7.odj38pV9D9RAR41V?canPlayFromShare=true&from=share_recording_detail&startTime=1681831723000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FtA_3xQhlrmq4KkKGCZBsacxeOAL8Q7lFBHMW3NhfB_Xob5sKpPMXlQORK8aS82_C.8JREhtLjEgezQ34a%3FstartTime%3D1681831723000))
 
 4.03 [conf interval and hyp test](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.03%20conf%20interval%20and%20hyp%20test)
 
-4.04 [chi2 contingency - correlation for categoricals](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.04%20chi2_contingency%20-%20_correlation_%20for%20categoricals)
+4.04 [chi2 contingency - correlation for categoricals](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.04%20chi2_contingency%20-%20_correlation_%20for%20categoricals) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/bF3yUbDGYIL1A42xfmpo2E-GPV4sy2HO8NJh7ZcsRCHSeWK8_EZlFTxR81kFOeuvG6FHMb8xq21eU3Zx.oWaxuS7Z_nq5Wsa5?canPlayFromShare=true&from=share_recording_detail&startTime=1681887031000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FT8y6miPk3RNydyvR3hsnHmr24mZJUSG0N01VtBC52b8aHHCbGHRwTwS3HohdNYEh.6Bzfn6rtFJpXuipl%3FstartTime%3D1681887031000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/OtOl5nURgyOd70xN281og9y6H6b1ghJl9n6lRJLRo5-fJgwil6WjYYPBPiWDU4UHU3GHzuUJCiAt3F4T.Bc7o87XzrRbwJPRz?canPlayFromShare=true&from=share_recording_detail&startTime=1681915082000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FT8y6miPk3RNydyvR3hsnHmr24mZJUSG0N01VtBC52b8aHHCbGHRwTwS3HohdNYEh.6Bzfn6rtFJpXuipl%3FstartTime%3D1681915082000))
 
-4.04 [Probability distributions](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.04%20probability%20distributions)
+4.04 [Probability distributions](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.04%20probability%20distributions) 
 
-4.07 [Intro Tableau](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.07%20Intro%20Tableau)
+4.07 [Intro Tableau](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.07%20Intro%20Tableau) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Qbo4q3q93HxPL6OOgP5y6rFz6Sd38NTP6h8VVgYR27KQIsmXRXU2N6BEKch6g5jbXnmfENP6voMvooEX.BdyVGiGj6vczCf5_?canPlayFromShare=true&from=share_recording_detail&startTime=1681973942000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FbwbdmxQTpvAGXYKJeuOQLQgg_YQh3XYxMZ-mjmbPPcstNuDNinlvQ11e4RxwUA93.BQfYDa82XF8Q4ucO%3FstartTime%3D1681973942000))
 
-4.08 [Data Analysis with Tableau](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.08%20Data%20Analysis%20with%20Tableau)
+4.08 [Data Analysis with Tableau](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.08%20Data%20Analysis%20with%20Tableau) 
 
-4.09 [Advanced Tableau_ binning](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.09%20Advanced%20Tableau_%20binning)
+4.09 [Advanced Tableau_ binning](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.09%20Advanced%20Tableau_%20binning) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/86T-9Pr8zdoInGb5Z3mquE3gxG13IdODa46HssltLpj1fdiIUsB59nieu_3ArHvi.vcJ8M9y7p5tB8ZdJ?startTime=1682665096000))
 
 
 **Labs**
