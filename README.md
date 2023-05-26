@@ -3,7 +3,7 @@ A repo to store and share Ironhack lessons and labs.
 ______________________
 ### **Week 1** 
 
-1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1)
+1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1)([Video 1](https://ironhack.zoom.us/rec/play/Cdc9LjzJl9gKF2U6Tx4WJLhc-FDmXdNFO0cbn_w4OPR_q0GL-2Cvun3uu1Gg-Om46UNjzms8NGZ-E8N5.v_J9XIIBJ7MaQwK9?canPlayFromShare=true&from=share_recording_detail&startTime=1679902094000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fj0RaAkjMGi4oJDcYddq395MNdoNnfFGCMQU3R0E-7T0iWqRSw1CSx927fo93660O._sGavN1RFeBdwZyy%3FstartTime%3D1679902094000))([Video 2](https://ironhack.zoom.us/rec/play/HD37xJQQhLJL-WajXvA1-oShQCplbMi6auD5zUYEnM1mrnaZMlnllWBlhjrLnFNS0q7VtdssAU3ZccGP.X1aZGZ7GNg_OHZuz?canPlayFromShare=true&from=share_recording_detail&startTime=1679923979000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fj0RaAkjMGi4oJDcYddq395MNdoNnfFGCMQU3R0E-7T0iWqRSw1CSx927fo93660O._sGavN1RFeBdwZyy%3FstartTime%3D1679923979000))
 
 1.03 [Intro libraries Numpy and Pandas](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.03%20Intro%20libraries%20Numpy%20and%20Pandas)
 
