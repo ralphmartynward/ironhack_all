@@ -68,19 +68,19 @@ ______________________
 ______________________
 ### **Week 3** 
 
-3.01 [SQL Create-Insert](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.01%20SQL%20Create-Insert)
+3.01 [SQL Create-Insert](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.01%20SQL%20Create-Insert) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/klsglwNtkDv1sk054np6Ihr_EM5Cu5aH__87cFjpXOHLpKY_cO3SpVSKnpmkA7Ezd8njbAlu6FVxAECi.3l8cZq1dywtU_d6S?canPlayFromShare=true&from=share_recording_detail&startTime=1681109855000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FeWWB_-ilwJWY1MTKsCgX99Y98BB7ZlUKV5A368lnY-mlYrvwi947VhrYA2W3RXUi.DUQOcSVC1NuVl2BB%3FstartTime%3D1681109855000)
 
-3.02 [SQL Subqueries and temp tables](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.02%20SQL%20Subqueries%20and%20temp%20tables)
+3.02 [SQL Subqueries and temp tables](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.02%20SQL%20Subqueries%20and%20temp%20tables) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/-hIjei3uf8jd5ltVJVAHL_a2B3EssbJk_j4_eNEarkmsSANy5KV4ft_MNLcC6pJhMSoTqaGv4UsQbIjX.r_jx9s5AwVoa-eCa?canPlayFromShare=true&from=share_recording_detail&startTime=1681134732000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FeWWB_-ilwJWY1MTKsCgX99Y98BB7ZlUKV5A368lnY-mlYrvwi947VhrYA2W3RXUi.DUQOcSVC1NuVl2BB%3FstartTime%3D1681134732000))
 
-3.03 [Advanced Pandas (groupby, merge)](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.03%20advanced%20Pandas%20(groupby%2C%20merge))
+3.03 [Advanced Pandas (groupby, merge)](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.03%20advanced%20Pandas%20(groupby%2C%20merge)) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/DK3LITDTLXRPHQMIGbkPqF7dB5aJU6L2TK_Sc2ooDuBEW7tIf3lV_PzHWI321SvbEgokYsNLhU9tJpkS.PF2entPklU5MmJim?canPlayFromShare=true&from=share_recording_detail&startTime=1681196048000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FshOevvMgapMCteQWhq_aoHxU5ZjIwKOZR78Qixqkhmqxce7cZ9Nnzmk7N_fE8Y77.SXXNKVvsbIWHoczR%3FstartTime%3D1681196048000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/m1TerDQJ7skS2hwae6qSkXwC6xyrvXHvbdKOOhjX-Arr49nixQ9D2cmtebcugLJOHxyXwIjUq6iBf805.pM8u0_avZ2Fr2CU_?canPlayFromShare=true&from=share_recording_detail&startTime=1681227068000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FshOevvMgapMCteQWhq_aoHxU5ZjIwKOZR78Qixqkhmqxce7cZ9Nnzmk7N_fE8Y77.SXXNKVvsbIWHoczR%3FstartTime%3D1681227068000))
 
 3.04 [melt, pivot and pivot_table](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.04%20melt%2C%20pivot%20and%20pivot_table)
 
-3.05 [Regular Expressions](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.05%20Regular%20Expressions)
+3.05 [Regular Expressions](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.05%20Regular%20Expressions) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Ws4APpzGbcg5SixNgM2nYD3VpHeXF47dqLtqYv4H2UHy77MLfU7SdN3iCOw60jvHBQdnr9vJWrceQyHn.wkm9MT0dTiJKwwd7?canPlayFromShare=true&from=share_recording_detail&startTime=1681282686000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fn1RkKWhVbAuDvEusktfwMXqCsbiZItL9zMKnmJNKaKK74vusbkxIHMAWkHoJL5i5.9dROadug84YNK3qu%3FstartTime%3D1681282686000))
 
-3.08 [Binary vs multiclass classification](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/DAY4)
+3.08 [Binary vs multiclass classification](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/DAY4) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/45FwwuzClAz67G4KZ2U61acb1_qbiJfCLxLkExELyQgJDvKYTMJKohqwTAa-H9vE.z2Ioubhs-BfvDls_?startTime=1681369101000))
 
-3.09 [Dealing with imbalance, diabetes](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.09%20Dealing%20with%20imbalance%2C%20diabetes)
+3.09 [Dealing with imbalance, diabetes](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.09%20Dealing%20with%20imbalance%2C%20diabetes) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/T7TTfm3xGmvStUb2mgWJHAD5WGStMQdxnShmie6GlYrjHB8PN34ALPUWwmDXAAjLz_i_4skoav9ZTY5R.2SylyFouMuvbPelU?canPlayFromShare=true&from=share_recording_detail&startTime=1681455489000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FN11ly6WwtXyXZYsx0bSDrMFmOZWmkKRC7WHgkDYajmuUb-8tXkjSL-ljjSx2aGx8.8QXw5n5x1AgOBcp6%3FstartTime%3D1681455489000))
 
 
 **Labs**
@@ -102,7 +102,7 @@ ______________________
 ______________________
 ### **Week 4** 
 
-4.01 [K-NN Model. Imputing missing values](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.01%20K-NN%20Model.%20Imputing%20missing%20values)
+4.01 [K-NN Model. Imputing missing values](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.01%20K-NN%20Model.%20Imputing%20missing%20values) ([🎥 Video 1]())([🎥 Video 2]())
 
 4.02 [Cleaning Categoricals](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.02%20Cleaning%20Categoricals)
 
