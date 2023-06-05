@@ -237,3 +237,31 @@ ______________________
 
 ______________________
 ### **Week 10** | Career week
+
+10.1 Welcome to Career Week / The Job Hunt & Networking ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Em-7Za5DMVOWFMvedmcbHk3FyWHGfVoiXVECkY2tsG9IsJ1XE3tAMPkpsnKuCBjWKMN6nDeR9APZOlhp.b1wPS_0YOOTYKg4P?canPlayFromShare=true&from=share_recording_detail&startTime=1685957620000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FuTk-FSdA-7QK2BxzTFAOzpPzJ8of__9AO3m2GH_bd2FplPE3jdnoj8Yw8Y5UpfMG.MnqxrHbTINcqwWYA%3FstartTime%3D1685957620000)) ([🎥 Video 2](https://ironhack.zoom.us/rec/play/QCW3yY7jo1LAhC3sqDSU-XAEsxR-juOHfB2i9vXQf6CMwGskWslKVrC2m1dfHMZ_X83aHSTS7Sw4r5AS.UDj3jg-ZuJ8DX6Uy?canPlayFromShare=true&from=share_recording_detail&startTime=1685959695000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FuTk-FSdA-7QK2BxzTFAOzpPzJ8of__9AO3m2GH_bd2FplPE3jdnoj8Yw8Y5UpfMG.MnqxrHbTINcqwWYA%3FstartTime%3D1685959695000))
+
+10.2 Time Management + Agile for your job-hunt
+
+10.3 HR Talk with Matthieu Derycke ([🎥 Video 1](https://ironhack.zoom.us/rec/play/z_JyiJKndL3LikTgU4m7SuP07AjL-RBSueGaSnfM0ptWeU8vd_pDmBGUuB-4ULlNY-DPi90Okjz9CPI-.j8TJ6IfySQaKPFwo?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FRWhGWY4qTRcdnLNyxNakzbZ2azoo5Sa4hLxrnacLc78tYyJfIGTJUal4jyHmoEno.Hb9lu5nd74uK1ngA))
+
+10.4 The CV of a Career Changer ([🎥 Video 1]())
+
+10.5 The Cover Letter ([🎥 Video 1]())
+
+10.6 Your LinkedIn Profile ([🎥 Video 1]())
+
+10.7 External Talks (Web; Data; UX-UI) ([🎥 Video 1]())
+
+10.8 Soft Skills ([🎥 Video 1]()) 
+
+10.9 Pitch yourself like a pro ([🎥 Video 1]())
+
+10.10 External talk: Will Scott: Use LinkedIn to your advantage ([🎥 Video 1]())
+
+10.11 Salaries & negotiation. Final tips ([🎥 Video 1]())
+
+10.12 Emotional Intelligence tools ([🎥 Video 1]())
+
+10.13 CW Closing: What's next ([🎥 Video 1]())
+
+10.14 External talks ([🎥 Video 1]())
