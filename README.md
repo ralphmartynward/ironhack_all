@@ -246,22 +246,22 @@ ______________________
 
 10.4 [The CV of a Career Changer](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/qEaaza8XT2FDxn8zpMxWM4eXkMhwMnkSagX8ZY8Z0UsOeR-sGYKHq3weMo72hJ_szWeGvsd3-IbQFvO3.n6W6TIZxeMBGHs3y?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FYHXHQR1SEh-oZz93Ta07I8S9moKARYpOGEvlhS_DG2L8Ns0N_26x86GbtPCUGGZ4.cSp-SwlNoWaA_83Y))
 
-10.5 [The Cover Letter](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.5 [The Cover Letter](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://www.loom.com/share/d64516c944f14b77985f8b0f8ebb94f8))
 
-10.6 [Your LinkedIn Profile](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.6 [Your LinkedIn Profile](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/FXZyEVGoxlLt08Z6LEAyBBdVM3Bogs7aC-CDP_5Fbq06JLyASlt-zSjaQnMxJOzw.wAK8C1JUhZG33zyQ?startTime=1686048118000))
 
-10.7 [External Talks (Web; Data; UX-UI)](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.7 [External Talks (Web; Data; UX-UI)](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/p8_Rowhb6kJJwK-pzH8-sQqi7IuNyJtv82ryZzQpQxaNkhWl455VDKnjHBPZvHurnxMcOMMog6kbvsnm.7xNrWqJi-Y_01v2F?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FJs6H4TyNqrWKoO1cbbSqhAffkErPTofSMOnvau0rgNPHCusC2pn_Qwv4boYghUej.E0Ojn7aQbIMZrK7J))
 
-10.8 [Soft Skills](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]()) 
+10.8 [Soft Skills](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/rpCHrN9cXJ9zogVJFVJ7YFLu2mt-RP9pRwrlNU-Q5X1Lehc8zooSHhqCzMlx1kS85NLOfoiFvBC4MsCB.HtDKFOp1wVdFSTb3?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FAsN53xPtPUmUUbdFON145HAWxD2ofqO_uETRaj_c5CNWgw_CbxZHuOXcwFEkFSI.Bkg0ByTcxIwOdZ5a)) 
 
-10.9 [Pitch yourself like a pro](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.9 [Pitch yourself like a pro](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/zO6jgNrQoQqfzYCPG6qDdMGsvaZ-ueo6xRlcuoi8GjFr9PMd3A89dhAZ4dUjCPh8hMCvCTE2hiN6_fwh.tls5hyZqeukuvZNM?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FAsN53xPtPUmUUbdFON145HAWxD2ofqO_uETRaj_c5CNWgw_CbxZHuOXcwFEkFSI.Bkg0ByTcxIwOdZ5a))
 
-10.10 [External talk: Will Scott: Use LinkedIn to your advantage](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.10 [External talk: Will Scott: Use LinkedIn to your advantage](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/eW1505XYF7wfxohQnsDFH8ayep3J6lahzTi1ZbnTxMXWxxSQjXf2jMhWaMxdQD7hQh6Tf0JhmGySfYLb.Le8-3KHgUqEUXirU?canPlayFromShare=true&from=share_recording_detail&startTime=1686155605000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3eR7nMfASUrCkhkcSghbG1QO9HFQQTOkdCaGGmvp1DA0KwWJ8VpG7om0qGGpjao6.KAONPJMVtUrjcoPn%3FstartTime%3D1686155605000))
 
-10.11 [Salaries & negotiation. Final tips](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.11 [Salaries & negotiation. Final tips](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://zoom.us/rec/play/Dt7RtMEtulP5Bg_JNPDEGezOKVIPUpJldpKt23wWW-K7_uG-h3uw23DzxjvJjEJ5hXFgFRDTP8rGnowS.m48SVafWt64gmdF_?autoplay=true&startTime=1686233527000))
 
-10.12 [Emotional Intelligence tools](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.12 [Emotional Intelligence tools](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://zoom.us/rec/play/MG9h-tFhJyMIz3Sk54MCUvzYyMoZn2p99rodilcxUcN31bhh1Azh6aPrTm4nAzbvPyA-iDK3jDX36gwJ.dSnnoopLn8TfqcYV?autoplay=true&startTime=1686236926000))
 
-10.13 [CW Closing: What's next](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.13 [CW Closing: What's next](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://zoom.us/rec/play/6b26gfyZpVkgSOesG8ZHOMH4HO4wGZifrfqrfTNhDWfoFo1_YzRxvdFu6CymOTxmp71QZqRyjRAgosiY.2m1eeExnKmXj-E36?autoplay=true&startTime=1686238990000))
 
-10.14 [External talks](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1]())
+10.14 [External talks](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/LXMk8XS22ZFrqQqmHwxaeaQPltupG1ge37PAznfmDYVAjfhshTxp5SaUH1l2AnoAuRT-er-ZmWwhY_t5.1PiPhX9Xrka1olfQ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FvfQbZNKgQD6SUzfzF7suNE8z8ELZqAYqbzH300ptlX9uEvfqJpsK-MNvxy9NWpyd.FD-eWhgX7xWI0qEo))
