@@ -270,4 +270,4 @@ ______________________
 ______________________
 ### **Week 11** | Hackshow
 
-11. Hackshow [🎥 Video 1](https://zoom.us/rec/play/8l5wfJUh5LoxzfhFTc42L5zoAdHDp3MzPzCEraCnjIr5_8moocPMvqBzHM0Lpc5BAlprF7ZsvIYB4GlP.8CIryVsP7DEWmPCw?autoplay=true&startTime=1686758547000) 
+11. Hackshow ([🎥 Video 1](https://zoom.us/rec/play/8l5wfJUh5LoxzfhFTc42L5zoAdHDp3MzPzCEraCnjIr5_8moocPMvqBzHM0Lpc5BAlprF7ZsvIYB4GlP.8CIryVsP7DEWmPCw?autoplay=true&startTime=1686758547000)) 
