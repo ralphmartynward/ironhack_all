@@ -265,3 +265,9 @@ ______________________
 10.13 [CW Closing: What's next](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://zoom.us/rec/play/6b26gfyZpVkgSOesG8ZHOMH4HO4wGZifrfqrfTNhDWfoFo1_YzRxvdFu6CymOTxmp71QZqRyjRAgosiY.2m1eeExnKmXj-E36?autoplay=true&startTime=1686238990000))
 
 10.14 [External talks](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/LXMk8XS22ZFrqQqmHwxaeaQPltupG1ge37PAznfmDYVAjfhshTxp5SaUH1l2AnoAuRT-er-ZmWwhY_t5.1PiPhX9Xrka1olfQ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FvfQbZNKgQD6SUzfzF7suNE8z8ELZqAYqbzH300ptlX9uEvfqJpsK-MNvxy9NWpyd.FD-eWhgX7xWI0qEo))
+
+
+______________________
+### **Week 11** | Hackshow
+
+11. Hackshow [🎥 Video 1]](https://zoom.us/rec/play/8l5wfJUh5LoxzfhFTc42L5zoAdHDp3MzPzCEraCnjIr5_8moocPMvqBzHM0Lpc5BAlprF7ZsvIYB4GlP.8CIryVsP7DEWmPCw?autoplay=true&startTime=1686758547000) 
