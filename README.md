@@ -213,7 +213,7 @@ ______________________
 
 [Lab - Random Forests](https://github.com/ralphmartynward/ironhack_07_lab-random-forests)
 
-[Lab - Technical challenge hackathon](https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA/tree/master/week7)
+[Lab - Hackathon](https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA/tree/master/week7)
 
 
 ______________________
