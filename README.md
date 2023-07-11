@@ -3,6 +3,8 @@ A repo to store and share Ironhack lessons and labs.
 ______________________
 ### **Week 1** 
 
+**Lectures**
+
 1.02 [Data analytics, terminal, bash, Git, Github](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/DAY1) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Cdc9LjzJl9gKF2U6Tx4WJLhc-FDmXdNFO0cbn_w4OPR_q0GL-2Cvun3uu1Gg-Om46UNjzms8NGZ-E8N5.v_J9XIIBJ7MaQwK9?canPlayFromShare=true&from=share_recording_detail&startTime=1679902094000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fj0RaAkjMGi4oJDcYddq395MNdoNnfFGCMQU3R0E-7T0iWqRSw1CSx927fo93660O._sGavN1RFeBdwZyy%3FstartTime%3D1679902094000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/HD37xJQQhLJL-WajXvA1-oShQCplbMi6auD5zUYEnM1mrnaZMlnllWBlhjrLnFNS0q7VtdssAU3ZccGP.X1aZGZ7GNg_OHZuz?canPlayFromShare=true&from=share_recording_detail&startTime=1679923979000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fj0RaAkjMGi4oJDcYddq395MNdoNnfFGCMQU3R0E-7T0iWqRSw1CSx927fo93660O._sGavN1RFeBdwZyy%3FstartTime%3D1679923979000))
 
 1.03 [Intro libraries Numpy and Pandas](https://github.com/ralphmartynward/ironhack_all/tree/main/01%20Week/1.03%20Intro%20libraries%20Numpy%20and%20Pandas) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/mzliAXtxsaNnKGpNMvAyuv6YdkqY8I4_CFxNDHjEZJaPmdfIprWcpyuD1_bizQ085_UsTOM7NoXZA7Vz.W2qU3uSC4zsSNShH?canPlayFromShare=true&from=share_recording_detail&startTime=1679985211000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FBs-kO9kRRjF1dof_QFRPqiLLVGcgcLkLKTekIkiTDboitkxc7k6mWeVHSa3wEjGx.451tcscXEi4YDNFh%3FstartTime%3D1679985211000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/CnFWgcc7eBI51hw855pQggiAVL0IZ9hHl0sRiCT_XOj3GGG_8wOPEdmLjq-U9JkmyUeEL5aZaXLbzMcn.ijJu3psEO6gavNs6?canPlayFromShare=true&from=share_recording_detail&startTime=1680013294000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FBs-kO9kRRjF1dof_QFRPqiLLVGcgcLkLKTekIkiTDboitkxc7k6mWeVHSa3wEjGx.451tcscXEi4YDNFh%3FstartTime%3D1680013294000))
@@ -42,6 +44,8 @@ ______________________
 ______________________
 ### **Week 2** 
 
+**Lectures**
+
 2.05 [SQL Intro SELECT](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/DAY2) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/QfCtVFi3yd_HDMoOJRgJORRXWkNvpBiRcjFgu-7t4TcS5V9gWtuZ_4svRAq1isHy10xEqtRKDdVVx7kz.W5IUgGDKuPSr6wSo?canPlayFromShare=true&from=share_recording_detail&startTime=1680591167000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fpdvdx74Vwg9RiZ9iB3WlKl9-i9Wqc2vdrF0euz8fzUPlvWnCzX3DWiCk1bSzr0nW._6RRuDCOh80_dq_V%3FstartTime%3D1680591167000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/2RYMidnt8MXZZRXXNNbAErNr04Kb_V3k7Q_MIPaiyuXeJC__VJum9Nw363GoWDsTQYVd4skE186o4C4N.bt70tS6uL-gqnqwl?canPlayFromShare=true&from=share_recording_detail&startTime=1680619298000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2Fpdvdx74Vwg9RiZ9iB3WlKl9-i9Wqc2vdrF0euz8fzUPlvWnCzX3DWiCk1bSzr0nW._6RRuDCOh80_dq_V%3FstartTime%3D1680619298000))
 
 2.06 [SQL Aggregations and Group By](https://github.com/ralphmartynward/ironhack_all/tree/main/02%20Week/2.06%20SQL%20Aggregations%20and%20Group%20By) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Xwaew7M11zLdrPj8cl-rHSRjCd3eOqWmBLwTEQTE6-tohFMeldazfvicNO9pJx5HK29x7ognG0EmDHZw.GnZWdd1JD3r7buYF?canPlayFromShare=true&from=share_recording_detail&startTime=1680504746000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FWJlqCE58LnOT0xRlILQVvclinnW8_7O0HK2ZdOlPhRRGs-Y_IL7F0n-AptksPlml.S9VyiVruiOOSaF8A%3FstartTime%3D1680504746000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/fMKnRE5pmFHi7849A5dGYcppb45NLrSF2vg5AGKsVbTdU1sSLjivAGxjcFKpaOHIXuJkN5Q8moD3Nhsk.G042j3S_90QPU4qn?canPlayFromShare=true&from=share_recording_detail&startTime=1680533938000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FWJlqCE58LnOT0xRlILQVvclinnW8_7O0HK2ZdOlPhRRGs-Y_IL7F0n-AptksPlml.S9VyiVruiOOSaF8A%3FstartTime%3D1680533938000))
@@ -67,6 +71,8 @@ ______________________
 
 ______________________
 ### **Week 3** 
+
+**Lectures**
 
 3.01 [SQL Create-Insert](https://github.com/ralphmartynward/ironhack_all/tree/main/03%20Week/3.01%20SQL%20Create-Insert) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/klsglwNtkDv1sk054np6Ihr_EM5Cu5aH__87cFjpXOHLpKY_cO3SpVSKnpmkA7Ezd8njbAlu6FVxAECi.3l8cZq1dywtU_d6S?canPlayFromShare=true&from=share_recording_detail&startTime=1681109855000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FeWWB_-ilwJWY1MTKsCgX99Y98BB7ZlUKV5A368lnY-mlYrvwi947VhrYA2W3RXUi.DUQOcSVC1NuVl2BB%3FstartTime%3D1681109855000))
 
@@ -101,6 +107,8 @@ ______________________
 
 ______________________
 ### **Week 4** 
+
+**Lectures**
 
 4.01 [K-NN Model. Imputing missing values](https://github.com/ralphmartynward/ironhack_all/tree/main/04%20Week/4.01%20K-NN%20Model.%20Imputing%20missing%20values) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Q9vIY1zxk__VcaaKhU4I9upQxqScy4lB238YZmOc-pEF5tw1GsDJ01tbpq69lVxBFWvMYsiolK8nbF_2.FQtIJ0HMh5t5_VFw?canPlayFromShare=true&from=share_recording_detail&startTime=1681714307000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FrT1TUUoZbLiWYeLGZ46Mh6GCI8EEz8exHpizZpaRVWR0jtUQtj2qZaiobU2M1ARC.xYTcjt1mA5pbynBL%3FstartTime%3D1681714307000))
 
@@ -150,6 +158,8 @@ ______________________
 ______________________
 ### **Week 6** 
 
+**Lectures**
+
 6.01 [Single Page scraping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.01%20Single%20Page%20scraping) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/r2-EH7TGX6SxbnOO_ShoA7P86lj1-6WzsWFuMD7tyj8_UE8M3TtWQ_pjzn9JMJl9uXcMNihmIEHfLt5p._bHENeAd-L3ViZ1_?canPlayFromShare=true&from=share_recording_detail&startTime=1682924304000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3beHdfAoJ_YNBvwRnLitynxrISZRPh20r2hb6RJbtx5Za3FoB3CxSsXA7U6DB9af.XLorwkc5Y1cvbm61%3FstartTime%3D1682924304000))([🎥 Video 2](https://ironhack.zoom.us/rec/play/avX9_XXn1vgDNniOp4CV350ESa-SrTx7vZY3n9357osx1ljMB2pXD8klZkKXgldOwFByknks0rlslhgC.IVlncQXacuML8McF?canPlayFromShare=true&from=share_recording_detail&startTime=1682954106000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F3beHdfAoJ_YNBvwRnLitynxrISZRPh20r2hb6RJbtx5Za3FoB3CxSsXA7U6DB9af.XLorwkc5Y1cvbm61%3FstartTime%3D1682954106000))
 
 6.02 [Multiple page scrapping](https://github.com/ralphmartynward/ironhack_all/tree/main/06%20Week/6.02%20Multiple%20page%20scrapping)
@@ -178,6 +188,8 @@ ______________________
 ______________________
 ### **Week 7** 
 
+**Lectures**
+
 7.01, 7.02 [Data Cleaning and Feature selection review](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.01%2C%207.02%20Data%20Cleaning%20and%20Feature%20selection%20review) ([🎥 Video 1](https://ironhack.zoom.us/rec/share/R3CzK2-oAfgwh5XFgNPWLdKBPo7jXuZ0kyIAivlKbrWqeUY_uEaxn7RnkZoPtoB3.EL1zY_1WNtL4J0IH?startTime=1683529171000))
 
 7.03 [Automated feature selection](https://github.com/ralphmartynward/ironhack_all/tree/main/07%20Week/7.03%20automated%20feature%20selection) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/tCSynbOvazBtn4kUiuiNAVDMLzACZXOL959Iv4XkVMF5AM8yG8KdQ7XbKl7E1cQZLCSL0FW1lyIGqec.GvuZ9vPOfnApqrwr?canPlayFromShare=true&from=share_recording_detail&startTime=1676965467000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FnrGjSAqWpT9Evo6ugHG8G-OOSV8HWm1EHxEF7WxBnUsgifpda18ZSk65EWdLGHPc.7KU0X108RcVtzVdm%3FstartTime%3D1676965467000))
@@ -201,10 +213,13 @@ ______________________
 
 [Lab - Random Forests](https://github.com/ralphmartynward/ironhack_07_lab-random-forests)
 
-[Lab - Technical challenge hackathon](https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA)
+[Lab - Technical challenge hackathon](https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA/tree/master/week7)
+
 
 ______________________
 ### **Week 8** 
+
+**Lectures**
 
 8.01 [Excel](https://github.com/ralphmartynward/ironhack_all/tree/main/08%20Week/8.01%20Excel) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Uy9zd9g1EonT9w0gTzWhwzA7u6FmeR5vaZHz1bbAI0-PiYk4ZVv9IFqaQHBfxyuk7mFm-qohQFNj1g6u.R_THwCKjx9GtCj0k?canPlayFromShare=true&from=share_recording_detail&startTime=1684133785000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2F9o1tLh3BIVSTdCno_C1UjiC98-pvtvsYSbZlaoCW8yAgqHs1Py4W5hM_Wgr4Px2v.orjDVARKtAAYp1VZ%3FstartTime%3D1684133785000))
 
@@ -238,6 +253,8 @@ ______________________
 ______________________
 ### **Week 10** | Career week
 
+**Lectures**
+
 10.1 [Welcome to Career Week / The Job Hunt & Networking](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/Em-7Za5DMVOWFMvedmcbHk3FyWHGfVoiXVECkY2tsG9IsJ1XE3tAMPkpsnKuCBjWKMN6nDeR9APZOlhp.b1wPS_0YOOTYKg4P?canPlayFromShare=true&from=share_recording_detail&startTime=1685957620000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FuTk-FSdA-7QK2BxzTFAOzpPzJ8of__9AO3m2GH_bd2FplPE3jdnoj8Yw8Y5UpfMG.MnqxrHbTINcqwWYA%3FstartTime%3D1685957620000)) ([🎥 Video 2](https://ironhack.zoom.us/rec/play/QCW3yY7jo1LAhC3sqDSU-XAEsxR-juOHfB2i9vXQf6CMwGskWslKVrC2m1dfHMZ_X83aHSTS7Sw4r5AS.UDj3jg-ZuJ8DX6Uy?canPlayFromShare=true&from=share_recording_detail&startTime=1685959695000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FuTk-FSdA-7QK2BxzTFAOzpPzJ8of__9AO3m2GH_bd2FplPE3jdnoj8Yw8Y5UpfMG.MnqxrHbTINcqwWYA%3FstartTime%3D1685959695000))
 
 10.2 [Time Management + Agile for your job-hunt](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week)
@@ -265,6 +282,10 @@ ______________________
 10.13 [CW Closing: What's next](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://zoom.us/rec/play/6b26gfyZpVkgSOesG8ZHOMH4HO4wGZifrfqrfTNhDWfoFo1_YzRxvdFu6CymOTxmp71QZqRyjRAgosiY.2m1eeExnKmXj-E36?autoplay=true&startTime=1686238990000))
 
 10.14 [External talks](https://github.com/ralphmartynward/ironhack_all/tree/main/10%20Week) ([🎥 Video 1](https://ironhack.zoom.us/rec/play/LXMk8XS22ZFrqQqmHwxaeaQPltupG1ge37PAznfmDYVAjfhshTxp5SaUH1l2AnoAuRT-er-ZmWwhY_t5.1PiPhX9Xrka1olfQ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fironhack.zoom.us%2Frec%2Fshare%2FvfQbZNKgQD6SUzfzF7suNE8z8ELZqAYqbzH300ptlX9uEvfqJpsK-MNvxy9NWpyd.FD-eWhgX7xWI0qEo))
+
+**Labs**
+
+[Technical challenge](https://github.com/ralphmartynward/ironhack_07_technical_challenge_DA)
 
 
 ______________________
